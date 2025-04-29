@@ -286,9 +286,6 @@ footer {
 		line-height: 1.65em;
 	}
 
-	.btn {
-		color: blue;
-	}
 }
 
 @media screen and (max-width: 992px) {
@@ -330,10 +327,6 @@ footer {
 		margin-bottom: 2%;
 	}
 
-	.btn {
-		color: green;
-	}
-
 }
 
 @media screen and (max-width: 768px) {
@@ -346,7 +339,7 @@ footer {
 	}
 
 	h1 {
-		width: 85%;
+		width: 100%;
 		font-size: 200%;
 	}
 
@@ -368,8 +361,4 @@ footer {
         padding: 5%;
         margin-bottom: 5%;
     }
-
-	.btn {
-		color: red;
-	}
 }
