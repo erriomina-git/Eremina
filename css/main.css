@@ -314,7 +314,7 @@ footer {
 	}
 
 	p {
-		font-size: 14px;
+		font-size: 20px;
 		width: 100%;
 		margin-top: 11%;
 		margin-bottom: 5%;
@@ -342,11 +342,12 @@ footer {
 	}
 
 	.logo {
-		width: 15%;
+		width: 20%;
 	}
 
 	h1 {
 		width: 85%;
+		font-size: 200%;
 	}
 
 	span {
